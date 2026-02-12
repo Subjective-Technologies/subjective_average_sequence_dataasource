@@ -1,4 +1,5 @@
 {
+  "description": "Computes average sequence statistics per symbol using the internal analytics module and publishes aggregate results for downstream consumers.",
   "domainCategory": "Data & Analytics",
   "subjectiveTechnologyElement": "Pipelines",
   "publisher": "BrainBoost Ltd.",
@@ -9,7 +10,7 @@
     {
       "type": "splitList",
       "title": "Average Sequence",
-      "text": "Subjective datasource implementation for SubjectiveAverageSequenceDataSource.",
+      "text": "Computes average sequence statistics per symbol using the internal analytics module and publishes aggregate results for downstream consumers.",
       "image": {
         "src": "/subjective_average_sequence_dataasource/icon.svg",
         "alt": "Average Sequence icon"
